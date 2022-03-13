@@ -50,7 +50,9 @@ The percentage of total fare by city type is closer to the percentage of total r
 
 # Summary
 As seen throughout this analysis the supply of drivers and total number of rides is far larger in Urban areas than rural or suburban areas. While the average cost of fare per ride is higher in rural areas when compares to urban areas. This is likely due to higher demand of ride sharing services proportional to the population in rural and suburban areas. In fact, there are too many drivers in urban areas with 67.6% more drivers than rides many of the drivers will be unable to pick up a single fare. 
-
+One possible solution would be to try and encourage urban drivers to move to more rural and suburban nearby areas. This will increase the supply of drivers in those areas and increase the number of drivers able to pick up fares. 
+Another solution would be to lower the cost of rides in urban areas. If rides are more affordable then more people will opt for ride sharing services as opposed to public transportation. 
+Of course, the average fare per ride is already lower in urban areas so lowering the cost further may prove detrimental to the drivers. Which leaves us with the problem of there being too many drivers in urban areas. One potential solution would be to make the PyBer ride sharing service a more attractive alternative to the cheaper public transportation. Our greatest selling point in here is speed. It is easy to justify an extra $15 spend on weekend and an extra $5 on weekdays if the wait for a driver is much shorter than the wait for a bus or subway. Perhaps if PyBer started assigning areas to drivers. If Neighborhood A and Neighborhood B both have ten drivers, but Neighborhood A has 7 people waiting on rides and Neighborhood B has 13 people waiting for rides then it makes more sense for Neighborhood B to have more drivers. The drivers may not realize this themselves so if PyBer assigns neighborhoods like the city assigns bus routes it could decrease the time spent waiting for a ride and increase the likelihood of returning to the ride sharing service. 
 
 
 
