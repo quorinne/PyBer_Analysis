@@ -27,8 +27,16 @@ Total Fare by City Type is also shown in the line chart below as it changes over
 Another interesting trend to notice with this plot is that the average fare is higher in rural areas likely to the limited number of drivers. If the supply is low cost will rise. 
 
 ![alt text]( https://github.com/quorinne/PyBer_Analysis/blob/main/Analysis/Fig2.png?raw=true)
-The box plot above depicts the total number of drivers per city. As we can see urban areas have the largest number of drivers by far with rural areas having the fewest. A better way to showcase this information is with a pie chart. In the Pie chart below we can see that urban areas have 80.9% of drivers while rural areas have 2.6% and suburban areas have 16.5% of drivers.  
+
+The box plot above depicts the total number of drivers per city. As we can see urban areas have the largest number of drivers by far with rural areas having the fewest. A better way to showcase this information is with a pie chart or in the data summary. In the Pie chart below we can see that urban areas have 80.9% of drivers while rural areas have 2.6% and suburban areas have 16.5% of drivers.  
 ![alt text]( https://github.com/quorinne/PyBer_Analysis/blob/main/Analysis/Fig7.png?raw=true)
+
+The actual number of drivers, rides and fare per city type is shown in our Data summary below.  
+
+![alt text]( https://github.com/quorinne/PyBer_Analysis/blob/main/Resources/Summary_DataFrame.png
+?raw=true)
+
+In this data summary we can see that there are 78 drivers for only 125 rides in rural areas while suburban areas have 490 drivers for 625 rides. Urban areas meanwhile have a total of 2,405 drivers for only 1,625. They have 67.6% more drivers than actual rides. The supply of drivers is high while the demand for rides is low. 
 
 ## Total Rides Per City Type
 
@@ -41,7 +49,7 @@ The percentage of total fare by city type is closer to the percentage of total r
 
 
 # Summary
-As seen throughout this analysis the supply of drivers and total number of rides is far larger in Urban areas than rural or suburban areas. While the average cost of fare per ride is higher in rural areas when compares to urban areas. This is likely due to a somewhat higher demand of ride sharing services proportional to the population. I would assume this is due to a lack of public transportation although we lack the data necessary to make this claim with any real level of certainty. If possible, I would like to run another analysis on this data with included values for average wait time per ride and availability of public transportation. Including the average wait time per ride will let us know if potential customer waits for a driver to become available longer in any city type. For example: A wait time of ten minutes in an urban area and a wait time of thirty minutes in a rural area could indicate that urban areas have enough drivers for its ride sharing demands while rural areas lack drivers. This would also explain the higher fare cost in rural areas. 
+As seen throughout this analysis the supply of drivers and total number of rides is far larger in Urban areas than rural or suburban areas. While the average cost of fare per ride is higher in rural areas when compares to urban areas. This is likely due to higher demand of ride sharing services proportional to the population in rural and suburban areas. In fact, there are too many drivers in urban areas with 67.6% more drivers than rides many of the drivers will be unable to pick up a single fare. 
 
 
 
