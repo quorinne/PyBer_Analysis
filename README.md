@@ -35,7 +35,8 @@ The actual number of drivers, rides and fare per city type is shown in our Data 
 
 ![alt text](https://github.com/quorinne/PyBer_Analysis/blob/main/Analysis/Summary_DataFrame.png?raw=true)
 
-In this data summary we can see that there are 78 drivers for only 125 rides in rural areas while suburban areas have 490 drivers for 625 rides. Urban areas meanwhile have a total of 2,405 drivers for only 1,625. They have 67.6% more drivers than actual rides. The supply of drivers is high while the demand for rides is low. 
+In this data summary we can see that there are 78 drivers for only 125 rides in rural areas while suburban areas have 490 drivers for 625 rides. Urban areas meanwhile have a total of 2,405 drivers for only 1,625. They have 67.6% more drivers than actual rides. The supply of drivers is high while the demand for rides is low. The total fare amount for rural areas is $4,327.93, suburban is $19,356.33, and urban areas $39,854.38. Average fare per ride is $34.62 for rural, $30.97 for suburban and $24.53 for urban. Average fare per driver is $55.49 for rural $39.50 for suburban and $16.57 for urban. As we can see the amount each driver earns per ride decreases greatly in urban areas, and since drivers outnumber the total rides in urban areas it indicates that urban drivers make less overall.
+
 
 ## Total Rides Per City Type
 
