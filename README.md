@@ -33,8 +33,7 @@ The box plot above depicts the total number of drivers per city. As we can see u
 
 The actual number of drivers, rides and fare per city type is shown in our Data summary below.  
 
-![alt text](https://github.com/quorinne/PyBer_Analysis/blob/main/Analysis/Summary_DataFrame.png
-?raw=true)
+![alt text](https://github.com/quorinne/PyBer_Analysis/blob/main/Analysis/Summary_DataFrame.png?raw=true)
 
 In this data summary we can see that there are 78 drivers for only 125 rides in rural areas while suburban areas have 490 drivers for 625 rides. Urban areas meanwhile have a total of 2,405 drivers for only 1,625. They have 67.6% more drivers than actual rides. The supply of drivers is high while the demand for rides is low. 
 
