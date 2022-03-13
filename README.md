@@ -15,7 +15,7 @@ Not every type of city will have the same demand for ride sharing services, it w
 
 The plot above depicts the cost of fare (Y Axis) and its relationship to the total number of rides per city. As we can see rural areas have a small number of rides while urban areas have quite a bit more. 
 
-	### Total Fare Over Time
+	## Total Fare Over Time
 
 Total Fare by City Type is also shown in the line chart below as it changes over time. In this chart we notice that all three city types experience an increase in total fare towards the end of February right before the month of March.  We can also see how suburban and rural areas have a fairly stable level of total fare from March to April while Urban areas see the total fare rising and falling in larger increments more before April. 
 ![alt text]( https://github.com/quorinne/PyBer_Analysis/blob/main/Analysis/Del2.png?raw=true)
